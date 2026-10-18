@@ -8,7 +8,7 @@ async function connectDB() {
     // Attempt to connect to the MongoDB database using the provided connection string (URI).
     // The URI includes the username, password, cluster details, and database name.
     // The 'await' keyword pauses execution until the connection is established or fails.
-    await mongoose.connect("mongodb+srv://yt:cr8is7xbPRNXoPbk@yt-backend.ek2zrct.mongodb.net/halley");
+    await mongoose.connect("link of mongo cloud");
     
     // Log a success message to the console once the connection is established.
     // This helps with debugging and confirms that the database connection was successful.
