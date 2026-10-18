@@ -72,8 +72,7 @@ POSTMAN => Postman is a popular API platform used to build, test, document, and 
 
 
 
-//mongodb pass--cr8is7xbPRNXoPbk
-//mongodb+srv://yt:cr8is7xbPRNXoPbk@yt-backend.ek2zrct.mongodb.net/
+
 OPERATION IN DATABASE
 #CRUD
 C => Create
